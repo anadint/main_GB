@@ -1,0 +1,15 @@
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\bin\Debug\net6.0\Task1_HelloConsole.exe
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\bin\Debug\net6.0\Task1_HelloConsole.deps.json
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\bin\Debug\net6.0\Task1_HelloConsole.runtimeconfig.json
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\bin\Debug\net6.0\Task1_HelloConsole.dll
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\bin\Debug\net6.0\Task1_HelloConsole.pdb
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.AssemblyInfo.cs
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.dll
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\refint\Task1_HelloConsole.dll
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.pdb
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\Task1_HelloConsole.genruntimeconfig.cache
+C:\Users\ntalanov\OneDrive - JNJ\Desktop\GB\C#\lesson1\Task1_HelloConsole\obj\Debug\net6.0\ref\Task1_HelloConsole.dll
